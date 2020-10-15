@@ -6,6 +6,6 @@ Before running this application, Install XAMPP apache webserver and set the data
 
 *https://www.apachefriends.org/download.html*
 
-1. After installation, give required pathy.
+1. After installation, give required path.
 2. Save the entire folder in htdocs of XAMPP FOLDER.
 3. Using localhost, open the html file by giving the path. 
